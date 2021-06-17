@@ -1,0 +1,22 @@
+{
+    "title": "学习笔记",
+    "language": "zh",
+    "author": "王海瑞",
+    "plugins": [
+       "page-copyright","toggle-chapters","back-to-top-button","splitter"
+    ],
+    "pluginsConfig": {
+	"page-copyright": {
+          "description": "modified at",
+          "signature": "王海瑞",
+          "wisdom": "Designer, Frontend Developer & overall web enthusiast",
+          "format": "YYYY-MM-dd hh:mm:ss",
+          "copyright": "Copyright &#169; 王海瑞",
+          "timeColor": "#666",
+          "copyrightColor": "#666",
+          "utcOffset": "8",
+          "style": "normal",
+          "noPowered": false
+	}
+     }
+}
