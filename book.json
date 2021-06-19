@@ -1,22 +1,22 @@
 {
     "title": "学习笔记",
-    "language": "zh",
-    "author": "王海瑞",
+    "language": "zh-hans",
+    "author": "danteit",
     "plugins": [
        "page-copyright","toggle-chapters","back-to-top-button","splitter"
     ],
     "pluginsConfig": {
 	"page-copyright": {
           "description": "本书修订于：",
-          "signature": "王海瑞",
-          "wisdom": "成都元素科技有限公司--售后服务工程师",
+          "signature": "danteit",
+          "wisdom": "一个什么都会，一做就废的高级非工程师",
           "format": "YYYY-MM-dd hh:mm:ss",
-          "copyright": "Copyright &#169; 王海瑞",
+          "copyright": "Copyright &#169; danteit",
           "timeColor": "#666",
           "copyrightColor": "#666",
           "utcOffset": "8",
           "style": "normal",
-	  "baseUri": "https://www.moleit.cn/",
+	  "baseUri": "http://book.danteit.cn/",
           "noPowered": "ture"
 	}
      }

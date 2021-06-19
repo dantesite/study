@@ -8,7 +8,7 @@
     * [Linux](./OS/linux.md)
         * [Linux基础](./OS/Linux/linux_base.md)
             * [Linux 系统介绍与安装](./OS/Linux/linux_base/LinuxInstall.md)
-            * [Linux命令行基础](LinuxCLI.md)
+            * [Linux命令行基础](./OS/Linux/Linux_base/LinuxCLI.md)
     * [Windows](./OS/Windows.md)
 * [数据库](./Database/Database.md)
     * [MySQL数据库](./Database/MySQL.md)
