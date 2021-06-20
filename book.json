@@ -15,9 +15,9 @@
     "pluginsConfig": {
 	"tbfed-pagefooter": {
           "format": "YYYY-MM-dd hh:mm:ss",
-          "copyright": "Copyright &#169; danteit",
+          "copyright": "Copyright &#169; https://book.danteit.cn",
 	  "modify_label": "该文件修订时间：",
-	  "noPowered": "ture"
+          "_copy": "powered by danteit"
 	}
      }
 }
